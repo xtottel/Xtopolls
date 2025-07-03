@@ -1,0 +1,150 @@
+[
+  {
+    "id": 4,
+    "slug": "otp-security-sendexa",
+    "title": "Why Banks Like Fidelity and ADB Trust Sendexa for OTP Security",
+    "date": "July 19, 2025",
+    "category": "Use Cases",
+    "readTime": "5 min read",
+    "image": "/blog/bank-otp-security.jpg",
+    "excerpt": "Ghana’s financial institutions rely on Sendexa for OTPs. Here’s how we prevent fraud where others fail.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "OTP fraud costs African businesses millions yearly. Sendexa’s solution combines:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Dynamic sender IDs (e.g., ‘FIDBANK’ instead of generic numbers)",
+          "Geolocation-based delivery blocks (combat SIM swap scams)",
+          "Real-time analytics to detect unusual spikes"
+        ]
+      }
+    ],
+    "author": {
+      "name": "Sendexa Security Team",
+      "role": "Head of Product",
+      "image": "/images/security-team.jpg"
+    },
+    "relatedPosts": [2, 5]
+  },
+  {
+    "id": 5,
+    "slug": "sendexa-vs-nalo-infobip",
+    "title": "Nalo Solutions or Sendexa? A Developer’s Honest Comparison",
+    "date": "July 26, 2025",
+    "category": "Product",
+    "readTime": "8 min read",
+    "image": "/blog/comparison-guide.jpg",
+    "excerpt": "We tested Nalo Solutions, Infobip, and Sendexa for 30 days. Here’s which API delivers the best value for African startups.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Criteria: Documentation, support response time, and failover handling."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa outperformed both Nalo Solutions and Infobip in all key areas. Here’s how we stack up:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Documentation: Sendexa’s guides are clear, concise, and localized for African developers.",
+          "Support: 24/7 local support vs. business hours only for Nalo; email-only for Infobip.",
+          "Failover: Sendexa’s real-time failover ensures zero downtime, while others struggled with latency."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "We also compared pricing and features:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          ["Feature", "Sendexa", "Nalo Solutions", "Infobip"],
+          ["Free Test Credits", "Yes", "No", "No"],
+          ["WhatsApp API", "Coming Q3", "No", "Yes"],
+          ["Local Support (Ghana)", "24/7", "Business Hours", "Email Only"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa’s focus on local infrastructure and developer experience makes it the best choice for startups in Ghana and across Africa."
+      },
+      {
+        "type": "heading",
+        "text": "Conclusion: Why Sendexa is the Best Choice"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you’re an African startup looking for a reliable, fast, and developer-friendly SMS API, Sendexa is the clear winner. We’re built for local scale, with features that matter most to our clients."
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether you need SMS, OTP, or future voice and email APIs, Sendexa is your partner for growth."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa’s focus on local infrastructure and developer experience makes it the best choice for startups in Ghana and across Africa."
+      }
+    ],
+    "author": {
+      "name": "Dev Advocate",
+      "role": "Sendexa Developer Relations",
+      "image": "/images/dev-advocate.jpg"
+    },
+    "relatedPosts": [2, 4]
+  },
+  {
+    "id": 6,
+    "slug": "sendexa-2026-roadmap",
+    "title": "Beyond SMS: Sendexa’s Voice, Email & WhatsApp APIs Launching Soon",
+    "date": "August 2, 2025",
+    "category": "News",
+    "readTime": "4 min read",
+    "image": "/blog/product-roadmap.jpg",
+    "excerpt": "Here’s what’s next for Sendexa—including a game-changing WhatsApp Business API and pay-as-you-go voice calls.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Q4 2025:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "WhatsApp Business API (Beta access for enterprise clients)",
+          "Email automation with Mailgun integrations",
+          "Voice API for IVR and call masking"
+        ]
+      },
+      {
+  "type": "code",
+  "language": "javascript", 
+  "code": "console.log('Hello Sendexa!');"
+},
+      {
+        "type": "paragraph",
+        "text": "2026:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "AI-powered analytics dashboard",
+          "Expanded regional coverage across Africa",
+          "Partnerships with leading telecoms for better rates"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "We’re building the future of communication in Africa—stay tuned!"
+      }
+    ],
+    "author": {
+      "name": "Product Team",
+      "role": "Sendexa",
+      "image": "/images/product-team.jpg"
+    },
+    "relatedPosts": [1, 5]
+  }
+]
